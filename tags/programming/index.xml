@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programming on Personal website</title>
+    <link>http://hjanime.github.io/tags/programming/</link>
+    <description>Recent content in Programming on Personal website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Jie Huang</copyright>
+    <lastBuildDate>Sat, 28 May 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://hjanime.github.io/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Programming Example (1)</title>
+      <link>http://hjanime.github.io/post/post1/</link>
+      <pubDate>Sat, 28 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://hjanime.github.io/post/post1/</guid>
+      <description>
+
+&lt;p&gt;I picked up the R programming language during my MSc at University of California San Diego, and use it constantly in my day-job, along with some Python. For fun I sometimes apply these tools to interesting-looking datasets that are lying around the web, and try to tell their stories through well-designed data visualisations. Some blog posts are mirrored on R-bloggers, a blogging community for the R language.&lt;/p&gt;
+
+&lt;p&gt;Useful bash one-liners useful for bioinformatics (and &lt;a href=&#34;#etc&#34;&gt;some, more generally useful&lt;/a&gt;).&lt;/p&gt;
+
+&lt;h2 id=&#34;contents:a8158e2ae96b1b34e1f733f49d15bcfd&#34;&gt;Contents&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#sources&#34;&gt;Sources&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#basic-awk--sed&#34;&gt;Basic awk &amp;amp; sed&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#awk--sed-for-bioinformatics&#34;&gt;awk &amp;amp; sed for bioinformatics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#sort-uniq-cut-etc&#34;&gt;sort, uniq, cut, etc.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#find-xargs-and-gnu-parallel&#34;&gt;find, xargs, and GNU parallel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#seqtk&#34;&gt;seqtk&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#gff3-annotations&#34;&gt;GFF3 Annotations&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#other-generally-useful-aliases-for-your-bashrc&#34;&gt;Other generally useful aliases for your .bashrc&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#etc&#34;&gt;Etc.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Personal website</title>
+    <link>http://hjanime.github.io/project/</link>
+    <description>Recent content in Projects on Personal website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Jie Huang</copyright>
+    <lastBuildDate>Fri, 27 May 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://hjanime.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Alternative Splicing</title>
+      <link>http://hjanime.github.io/project/splicing/</link>
+      <pubDate>Fri, 27 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://hjanime.github.io/project/splicing/</guid>
+      <description>&lt;p&gt;Understanding the occurrence and regulation of alternative splicing (AS) is a key task towards explaining the regulatory processes that shape the complex transcriptomes of higher eukaryotes. With the advent of high-throughput sequencing of RNA (RNA-Seq), the diversity of AS transcripts could be measured at an unprecedented depth. Although the catalog of known AS events has grown ever since, novel transcripts are commonly observed when working with less well annotated organisms, in the context of disease, or within large populations. Whereas an identification of complete transcripts is technically challenging and computationally expensive, focusing on single splicing events as a proxy for transcriptome characteristics is fruitful and sufficient for a wide range of analyses.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BS-seq</title>
+      <link>http://hjanime.github.io/project/BS-seq/</link>
+      <pubDate>Fri, 27 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://hjanime.github.io/project/BS-seq/</guid>
+      <description>&lt;p&gt;DNA methylation at the C5 position of cytosine plays a crucial role in gene expression and chromatin remodelling, and perturbations in methylation patterns are implicated in the development of cancer, neurodegenerative diseases, and neurological disorders. Therefore, the mapping of methylated bases (the methylome) is critical to understanding gene expression and other processes subject to epigenetic regulation.&lt;/p&gt;
+
+&lt;p&gt;We provides whole genome sequencing of bisulfite-converted DNA, as an effective method to identify individually methylated cytosines on a genome-wide scale. Methylome analysis is an increasingly valuable research tool with a range of applications, including studies on gene regulation, stem cell differentiation, embryogenesis, aging, cancer and other diseases, and phenotypic diversity and evolution in plants and animals.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/FelixKrueger/Bismark&#34;&gt;Bismark&lt;/a&gt; :　A tool to map bisulfite converted sequence reads and determine cytosine methylation states (公司流程使用)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/bjpop/methpat&#34;&gt;methpat&lt;/a&gt; : A program for summarising CpG methylation patterns&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CLIP-seq</title>
+      <link>http://hjanime.github.io/project/CLIP-seq/</link>
+      <pubDate>Fri, 27 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://hjanime.github.io/project/CLIP-seq/</guid>
+      <description>&lt;p&gt;CLIP-seq, ie, UV cross-linking immuno-precipitation combined with high-throughput sequencing, is a revolutionary technology to reveal the interactions between RNA molecules and RNA-binding proteins in the whole genome level. The main principle is based on the fact that RNA molecule and RNA binding proteins can couple under ultraviolet irradiation. Therefore we can use specific antibody for the RNA binding proteins to precipitate RNA- protein complexes, and then the RNA fragment can be recovered for sequencing and analysis.&lt;/p&gt;
+
+&lt;p&gt;Reasons for Choosing Ablife&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Multiple sequencing platforms available: with Illumina Nextseq 500, Illumina HiSeq 2000, which are highly complementary, can meet the needs for different situations. Almost all lncRNA and mRNA information can be generated in a single sequencing run.&lt;/li&gt;
+&lt;li&gt;Strong Technical Team: we have experienced technicians, professional bioinformatics team equipped with supercomputing facilities that are capable of providing tailor-made bioinformatics analysis services. This technique can be applied to all eukaryotic species (LncRNA-seq for species other than human and mouse can be customized), while both known and novel LncRNAs can be analyzed.&lt;/li&gt;
+&lt;li&gt;Quick Delivery: with personal type sequencing platforms, which greatly shorten the project cycle.&lt;/li&gt;
+&lt;li&gt;Additional service: free project design, free standard analysis, free manuscript polishing.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ChIP-seq</title>
+      <link>http://hjanime.github.io/project/ChIP-seq/</link>
+      <pubDate>Fri, 27 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://hjanime.github.io/project/ChIP-seq/</guid>
+      <description>&lt;p&gt;ChIP-Seq provides genome-wide profiling of DNA targets for histone modification, transcription factors, and other DNA-associated proteins; it combines the selectivity of chromatin immunoprecipitation (ChIP) for recovering specific protein-DNA complexes with the power of NGS for high-throughput sequencing of the recovered DNA. Additionally, because the protein-DNA complexes are recovered from living cells, binding sites can be compared in different cell types or tissues, or under different conditions.&lt;/p&gt;
+
+&lt;p&gt;In ChIP-Seq, enriched DNA regions (protein binding sites) are detected as peaks above background reads, and bioinformatics analyses of these regions can reveal binding motifs. Applications include studies on gene regulation, transcription complex assembly, histone modification, developmental mechanisms, and disease processes.&lt;/p&gt;
+
+&lt;p&gt;We also provides sequencing service and bioinformatics analysis on other kinds of IP-sequencing.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Exome-seq</title>
+      <link>http://hjanime.github.io/project/Exome-seq/</link>
+      <pubDate>Fri, 27 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://hjanime.github.io/project/Exome-seq/</guid>
+      <description>&lt;p&gt;Exome sequencing provides a cost-effective alternative to whole genome sequencing as it targets only the protein coding region of the human genome responsible for a majority of known disease related variants. Whether you are conducting studies in rare Mendelian disorders, complex disease, cancer research, or human population studies.&lt;/p&gt;
+
+&lt;p&gt;Our bioinformatics analysis includes data QC, mapping with reference genome, SNP/InDel, somatic SNP/InDel calling, statistics and annotation. We utilizes internationally recognized software in bioinformatics analysis, e.g. BWA, SAMtools, GATK, etc.&lt;/p&gt;
+
+&lt;p&gt;In particular, bioinformatics pipeline includes annotation with the exome aggregation consortium (ExAC). ExAC dataset spans 60,706 unrelated individuals sequenced as part of various disease-specific and population genetic studies. This population scale database greatly facilitates research of disease pathogenesis.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hi-C</title>
+      <link>http://hjanime.github.io/project/Hi-C/</link>
+      <pubDate>Fri, 27 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://hjanime.github.io/project/Hi-C/</guid>
+      <description>&lt;p&gt;Hi-C技术简介
+2009年，Job Dekker 研究团队利用Hi-C技术分析人类正常淋巴母细胞染色体中基因座空间交互信息，首次提出Hi-C技术的概念。
+Hi-C技术是染色体构象捕获（Chromosome conformation capture，简称为3C）的一种衍生技术，是指基于高通量进行染色体构象的捕获，它能够在全基因组范围内捕捉不同基因座位之间的空间交互，研究三维空间中调控基因的DNA元件。
+Hi-C技术流程
+1. 用甲醛对细胞进行固定，使DNA与蛋白，蛋白与蛋白之间进行交联
+2. 进行酶切（如Hind III等限制性内切酶），使交联两侧产生粘性末端
+3. 末端修复，引入生物素标记，连接
+4. 解交联，使DNA和蛋白、蛋白和蛋白分开，提取DNA，打断，捕获带有生物素标记片段，进行建库
+5. 测序&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Microbiome</title>
+      <link>http://hjanime.github.io/project/Microbiome/</link>
+      <pubDate>Fri, 27 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://hjanime.github.io/project/Microbiome/</guid>
+      <description>&lt;p&gt;In metagenomics, genomes from environmental samples are analyzed without the prior isolation and cultivation of individual species, and, therefore, it is a powerful technique for studying microbial communities in their natural habitat, with a broad range of applications. our customers can rely on our expertise in NGS to help them explore the rich genetic repertoire of microbial communities, while also benefiting from our bioinformatics expertise to help identify the species, genes, and pathways represented in their samples. We provides metagenomic sequencing with Illumina HiSeq platform and assembly-first strategy, and our bioinformatics analyses provide gene predictions, function annotations, and taxonomic annotations. Our standard analysis package includes metaphlan, heatmaps, PCA, cluster analysis and other programs, generating high-quality, publication-ready data.&lt;/p&gt;
+
+&lt;p&gt;Our Advantage&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Outstanding service: We provide high-quality sequencing, an efficient standard workflow, and bioinformatics analyses at a cost-effective price.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Comprehensive analysis: Expert bioinformatics analysis with three databases (KEGG, eggNOG, CAZy) provides comprehensive data on annotated genes and metabolic pathways.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RNA-seq</title>
+      <link>http://hjanime.github.io/project/RNA-seq/</link>
+      <pubDate>Fri, 27 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://hjanime.github.io/project/RNA-seq/</guid>
+      <description>
+
+&lt;p&gt;mRNA sequencing (mRNA-Seq), a method of transcriptome profiling based on deep-sequencing technologies, provides a more precise measurement of transcript levels and their isoforms with a complete snapshot of the coding transcriptome than other methods such as microarray analysis. Transcriptome sequencing with longer read length enables the identification of novel transcripts, alternative splicing and gene fusions, and scientists can identify biomarkers or key regulated genes, key functional genes related to different phenotypes, as well as key factors in temporal changes. RNA-Seq quantification with shorter read length can simultaneously measure the expression levels of many transcripts. It is widely used in disease research, drug response research, pharmacokinetics, and personalized healthcare reasearch.&lt;/p&gt;
+
+&lt;p&gt;We offers comprehensive transcriptome sequencing and RNA-Seq quantification services using cutting edge Illumina platform with different sequencing strategies and widley accepted analysis software, serving customers with different research emphases.&lt;/p&gt;
+
+&lt;h3 id=&#34;analysis-pipeline:54e76d0dffa266c48728cf1f720eacb1&#34;&gt;Analysis Pipeline&lt;/h3&gt;
+
+&lt;p&gt;Pipeline for transcriptome sequencing&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>sRNA-seq</title>
+      <link>http://hjanime.github.io/project/sRNA-seq/</link>
+      <pubDate>Fri, 27 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://hjanime.github.io/project/sRNA-seq/</guid>
+      <description>&lt;p&gt;Small RNAs are a type of non-coding RNA of 50-250 nucleotides in length that regulate the translation of target mRNAs. Small RNA sequencing, including the sequencing of microRNA (miRNA-Seq), is a valuable method for investigating the function of small RNAs and for constructing regulatory networks of miRNAs and their target genes.&lt;/p&gt;
+
+&lt;p&gt;We offers comprehensive small RNA sequencing and bioinformatics analysis for miRNA and other types of small RNAs, including siRNA and piRNA. Scientists at Ablife use the cutting-edge Illumina platform, with the SE50 sequencing strategy and widely accepted analysis software, to support RNA research on a wide range of biological systems.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

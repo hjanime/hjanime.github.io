@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bioinfo on Personal website</title>
+    <link>http://hjanime.github.io/tags/bioinfo/</link>
+    <description>Recent content in Bioinfo on Personal website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Jie Huang</copyright>
+    <lastBuildDate>Sat, 28 May 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://hjanime.github.io/tags/bioinfo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Graphing Example (1)</title>
+      <link>http://hjanime.github.io/post/post2/</link>
+      <pubDate>Sat, 28 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://hjanime.github.io/post/post2/</guid>
+      <description>
+
+&lt;p&gt;This is a home for various data science projects, where I try to analyse some interesting collaborate datasets, build pretty and informative graphics.&lt;/p&gt;
+
+&lt;h3 id=&#34;example-document-your-workflow:5fd2cda0d65f33524ef5f5ee55ef39d1&#34;&gt;Example: Document your workflow&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;In this example, the coder doesn&amp;rsquo;t need to present every line of code, but rather needs to present the overall process of loading, crunching, and reporting the data, so another scientist can understand the whole process, and if necessary, replicate it.  References, links, and provenance of data files are more important here, so the reader can understand where the data sets are coming from.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;an-example-of-a-table-created-using-markdown:5fd2cda0d65f33524ef5f5ee55ef39d1&#34;&gt;An example of a table created using &lt;em&gt;Markdown&lt;/em&gt;&lt;/h3&gt;
+
+&lt;p&gt;Code:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-Markdown&#34;&gt;| Command           | Description                    |
+| ------------------| ------------------------------ |
+| `jekyll`            | Build your website.            |
+| `hugo serve -w`   | View your website.             |
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Result:&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Command&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;jekyll&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Build your website.&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;hugo serve -w&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;View your website.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

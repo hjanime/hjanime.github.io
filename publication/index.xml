@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Personal website</title>
+    <link>http://hjanime.github.io/publication/</link>
+    <description>Recent content in Publications on Personal website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Jie Huang</copyright>
+    <lastBuildDate>Sun, 01 Jun 2014 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://hjanime.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Mechanisms for U2AF to define 3 &#39; splice sites and regulate alternative splicing in the human genome</title>
+      <link>http://hjanime.github.io/publication/1/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://hjanime.github.io/publication/1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MicroRNA Directly Enhances Mitochondrial Translation during Muscle Differentiation </title>
+      <link>http://hjanime.github.io/publication/3/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://hjanime.github.io/publication/3/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multiplex analysis of polyA-linked sequences (MAPS): an RNA-seq strategy to profile poly(A&#43;) RNA</title>
+      <link>http://hjanime.github.io/publication/2/</link>
+      <pubDate>Sat, 01 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://hjanime.github.io/publication/2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SR proteins collaborate with 7SK and promoter-associated nascent RNA to release paused polymerase</title>
+      <link>http://hjanime.github.io/publication/4/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://hjanime.github.io/publication/4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genome-wide analysis reveals SR protein cooperation and competition in regulated splicing</title>
+      <link>http://hjanime.github.io/publication/5/</link>
+      <pubDate>Mon, 01 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://hjanime.github.io/publication/5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transcriptome and Proteome Exploration to Provide a Resource for the Study of Agrocybe aegerita</title>
+      <link>http://hjanime.github.io/publication/7/</link>
+      <pubDate>Fri, 01 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://hjanime.github.io/publication/7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Direct conversion of fibroblasts to neurons by reprogramming PTB-regulated microRNA circuits</title>
+      <link>http://hjanime.github.io/publication/6/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://hjanime.github.io/publication/6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep insight into the Ganoderma lucidum by comprehensive analysis of its transcriptome</title>
+      <link>http://hjanime.github.io/publication/9/</link>
+      <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://hjanime.github.io/publication/9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nuclear matrix factor hnRNP U/SAF-A exerts a global control of alternative splicing by regulating U2 snRNP maturation.</title>
+      <link>http://hjanime.github.io/publication/8/</link>
+      <pubDate>Thu, 01 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://hjanime.github.io/publication/8/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

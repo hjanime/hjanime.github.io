@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Personal website</title>
+    <link>http://hjanime.github.io/home/</link>
+    <description>Recent content in Homes on Personal website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Jie Huang</copyright>
+    <lastBuildDate>Sat, 28 May 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://hjanime.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>about</title>
+      <link>http://hjanime.github.io/home/about/</link>
+      <pubDate>Sat, 28 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://hjanime.github.io/home/about/</guid>
+      <description>
+
+&lt;h1 id=&#34;biography:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Biography&lt;/h1&gt;
+
+&lt;p&gt;I am a Bioinformatics Research Scientist at AB Life Inc.  Department of Genomic Data Analysis, Wuhan, China&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;My current goals are to use cutting-edge computational and statistical learning methods alongside sequencing and biochemical techniques to advance basic science and therapeutics
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;There are 4 major focus areas in my daily work:&lt;/p&gt;
+
+&lt;p&gt;•   Built or contributed to several projects that have dramatically sped up our computational biology workflow, including whole exome sequencing (quality control, mapping, re-alignment, variant calls, prioritization), RNA-seq (quantification and de novo transcriptome analysis), genome assembly (reference guided and de novo) and epigenomics.&lt;/p&gt;
+
+&lt;p&gt;•   Develop new method for microbial community analysis to study individual microbes, pathogens and their influences of host diet and environment.&lt;/p&gt;
+
+&lt;p&gt;•   Devise and execute translational bioinformatics and clinical research project by integrating genomic high-throughput technology associated with medical records.&lt;/p&gt;
+
+&lt;p&gt;•   Create SOPs through standardization and maintenance of summary reports, supervise data analysis and customized graphing presentation in the company.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>teaching</title>
+      <link>http://hjanime.github.io/home/teaching/</link>
+      <pubDate>Sat, 28 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://hjanime.github.io/home/teaching/</guid>
+      <description>
+
+&lt;p&gt;I am a senior training instructor for the following subjects in the company:&lt;/p&gt;
+
+&lt;h3 id=&#34;advanced-data-science:416f445d9bade50adf875443b512ceeb&#34;&gt;Advanced Data Science&lt;/h3&gt;
+
+&lt;p&gt;Provides an intensive introduction to applied statistics and data visualization. Trains people to become data analyst capable of both applied data analysis and critical evaluation of statistical methods. Since both data analysis and methods development require substantial hands-on experience, focuses on hands-on data analysis.&lt;/p&gt;
+
+&lt;h3 id=&#34;genomic-data-visualization:416f445d9bade50adf875443b512ceeb&#34;&gt;Genomic Data Visualization&lt;/h3&gt;
+
+&lt;p&gt;With Chao Chen and Joseph Wei, we created a course specialization in genomic data visualization. Some cool things about the program are:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Unix &amp;amp; High-Performance Computing&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;NGS data analysis (RNA-Seq, ChIP-Seq, Variant calling)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Statistical Visualization using R/ggplot2&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Every training runs every month.
+It is designed from the ground up to cover modern genomics including Python, R,  ggplot2, Bioconductor, statistics, computing, and genomic technologies.
+All of my lecture materials for these are open source and available from the website&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

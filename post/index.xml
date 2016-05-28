@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Personal website</title>
+    <link>http://hjanime.github.io/post/</link>
+    <description>Recent content in Posts on Personal website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Jie Huang</copyright>
+    <lastBuildDate>Sat, 28 May 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://hjanime.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Graphing Example (1)</title>
+      <link>http://hjanime.github.io/post/post2/</link>
+      <pubDate>Sat, 28 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://hjanime.github.io/post/post2/</guid>
+      <description>
+
+&lt;p&gt;This is a home for various data science projects, where I try to analyse some interesting collaborate datasets, build pretty and informative graphics.&lt;/p&gt;
+
+&lt;h3 id=&#34;example-document-your-workflow:5fd2cda0d65f33524ef5f5ee55ef39d1&#34;&gt;Example: Document your workflow&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;In this example, the coder doesn&amp;rsquo;t need to present every line of code, but rather needs to present the overall process of loading, crunching, and reporting the data, so another scientist can understand the whole process, and if necessary, replicate it.  References, links, and provenance of data files are more important here, so the reader can understand where the data sets are coming from.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;an-example-of-a-table-created-using-markdown:5fd2cda0d65f33524ef5f5ee55ef39d1&#34;&gt;An example of a table created using &lt;em&gt;Markdown&lt;/em&gt;&lt;/h3&gt;
+
+&lt;p&gt;Code:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-Markdown&#34;&gt;| Command           | Description                    |
+| ------------------| ------------------------------ |
+| `jekyll`            | Build your website.            |
+| `hugo serve -w`   | View your website.             |
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Result:&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Command&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;jekyll&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Build your website.&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;hugo serve -w&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;View your website.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Programming Example (1)</title>
+      <link>http://hjanime.github.io/post/post1/</link>
+      <pubDate>Sat, 28 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://hjanime.github.io/post/post1/</guid>
+      <description>
+
+&lt;p&gt;I picked up the R programming language during my MSc at University of California San Diego, and use it constantly in my day-job, along with some Python. For fun I sometimes apply these tools to interesting-looking datasets that are lying around the web, and try to tell their stories through well-designed data visualisations. Some blog posts are mirrored on R-bloggers, a blogging community for the R language.&lt;/p&gt;
+
+&lt;p&gt;Useful bash one-liners useful for bioinformatics (and &lt;a href=&#34;#etc&#34;&gt;some, more generally useful&lt;/a&gt;).&lt;/p&gt;
+
+&lt;h2 id=&#34;contents:a8158e2ae96b1b34e1f733f49d15bcfd&#34;&gt;Contents&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#sources&#34;&gt;Sources&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#basic-awk--sed&#34;&gt;Basic awk &amp;amp; sed&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#awk--sed-for-bioinformatics&#34;&gt;awk &amp;amp; sed for bioinformatics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#sort-uniq-cut-etc&#34;&gt;sort, uniq, cut, etc.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#find-xargs-and-gnu-parallel&#34;&gt;find, xargs, and GNU parallel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#seqtk&#34;&gt;seqtk&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#gff3-annotations&#34;&gt;GFF3 Annotations&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#other-generally-useful-aliases-for-your-bashrc&#34;&gt;Other generally useful aliases for your .bashrc&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#etc&#34;&gt;Etc.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
